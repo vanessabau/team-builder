@@ -1,0 +1,25 @@
+{
+  "name": "team-builder",
+  "version": "1.0.0",
+  "description": "CLI application that creates a team page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanessabau/team-builder.git"
+  },
+  "author": "vanessa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanessabau/team-builder/issues"
+  },
+  "homepage": "https://github.com/vanessabau/team-builder#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.1.0",
+    "jest": "^26.0.1"
+  }
+}
