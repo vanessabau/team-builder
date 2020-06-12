@@ -19,7 +19,7 @@ CLI Application that allows user input of employees to create a webpage with a t
 This application combines steps of receiving user data and dynamically generating html pages from the user data. The project included existing tests and html templates. First, I created JavaScript to pass the existing tests in the form of constructor functions. Next, I created an interactive series of questions using the inquirer module. I created independent functions for various steps of the program for clarity and called the functions in my inquirer statements. Finally I made a few alterations to the given html templates and html generator file to improve the format of the dynamically generated elements. 
 
 ### Installation
-To use, run npm install in the command line to install dependencies.
+To use, run 'npm install' in the command line to install dependencies.
 
 ## Useage
 Run 'node app' in the CLI and follow the prompts to enter in data for the Manager, Engineers, and Interns, there is an option to select when all team members have been added.
@@ -28,7 +28,7 @@ Run 'node app' in the CLI and follow the prompts to enter in data for the Manage
 None
 
 ### Contributors
-Ivan Popov (my tutor), TA's Justin Singh, and Zac Warner, and Bootcamp Instructor Marcelo Gachet helped trouble shoot. Most notably with a few flexbox and formatting details.
+Ivan Popov (my tutor), TA's Justin Singh, and Zac Warner, and Bootcamp Instructor Marcelo Gachet helped trouble shoot, most notably with a few flexbox and formatting details.
 
 ### Testing
 This app has built in testing found in the 'test' folder and was created with TDD. All tests pass. 
