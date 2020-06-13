@@ -3,6 +3,8 @@ CLI Application that allows user input of employees to create a webpage with a t
 
 # ![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 
+## Youtube Tutorial Video Link
+
 ## Table of Contents
 
 1. [Overview/Process](###Overview/Process)
