@@ -3,7 +3,7 @@ CLI Application that allows user input of employees to create a webpage with a t
 
 # ![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 
-## Youtube Tutorial Video Link
+## Click image below to watch YouTube demo video
 [![Watch the video](https://raw.githubusercontent.com/vanessabau/team-builder/master/Screen%20Shot%202020-06-12%20at%203.38.14%20PM.png)](https://youtu.be/bwXCENm1E8g)
 
 
